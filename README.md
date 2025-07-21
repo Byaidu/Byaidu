@@ -1,6 +1,4 @@
-# Byaidu @ CNSS
-
-> Learning Cybersecurity
+# Byaidu
 
 <div style="display:inline-block;">
 <img src="https://github-readme-stats.vercel.app/api?username=Byaidu" style="height:160px">
